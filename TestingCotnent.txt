@@ -1,1 +1,5 @@
-hi hello 
+git clone "Repo"
+git status
+git add .
+git commit -m "Desscritpion"
+git push origin nameofBranch
